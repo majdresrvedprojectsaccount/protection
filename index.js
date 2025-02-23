@@ -1,0 +1,2 @@
+const scMaindomain = ['https://softwarecompanycoltd.pages.dev', 'https://softwarecompanycoltd.pages.dev/', 'https://softwarecompanycoltd.pages.dev/support', 'https://softwarecompanycoltd.pages.dev/support/', 'https://softwarecompanycoltd.pages.dev/404/', 'https://softwarecompanycoltd.pages.dev/tiktok/', 'https://softwarecompanycoltd.pages.dev/telegram/', ''];
+const currentDomain = window.location.origin;if(!scMaindomain.includes(currentDomain)){document.body.innerHTML='';}
